@@ -1,0 +1,109 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# Por favor, verificar la firma con la llave pública para
+# Li'monero en el código fuente (/utils/pubkeys/prodezzargenta.asc)
+# $ gpg --import prodezzargenta.asc
+# $ gpg --verify hashes.txt
+#
+# La salida debería contener el siguiente texto:
+#  gpg: Good signature by "prodezzargenta <prodezzargenta@gmail.com>"
+#
+# INFORMACIÓN
+#
+# NOMBRE
+Prodezzargenta
+#
+# MARCA
+Li'monero
+#
+# DIRECCIÓN
+84uhYRqUPTY3FeVfjHXJVci8eu7b2RARy7dcjpf68ffyMoJQFq3Log3PQ6HhgCxgz86DTeqATDQ9D1bzJ4Mz1dVR3oz1Gjv
+#
+# TIPO DE COMISIÓN
+Percentage fee per sale
+#
+# (Comisión porcentual por cada venta)
+#
+# COMISIÓN
+0.000000000000
+# 
+# Para calcular la suma hash256 de un archivo en Linux, usar:
+# $ sha256sum nombre_del_archivo 
+#
+# HASHES
+c1ec1ef9efe97c8b1be48d8f91847f26485a645fd83d219fa52b53539e757b9d  limonero-es.tex
+0311f587827eef1f3206d1638aee214d0466c8b942f0723ef8fb37bd3fbf46c5  limonero-es.pdf
+266a13181eb0bca30426cf376df68dfb1663ff35b6d9b4b88f43f1f202c5ab8e  prodezzargenta.asc
+66e767ec15b9f025361f2f1fc0b40d1745f9f796721fc5791bf635d4a6cb581c  logo.svg
+f7f5aae78bb7be4d955edf16d80ba0217c751141bd8276e2bdf5b3c76e6e6d98  logo.pdf
+9880e2575a4f3679ce2e52a699349379ce81062e7dfadd5e04703b94dc9b17d8  std-label.pdf
+29a420611d6144c2a259461a6233cce4d04ac00f9952daa9015885299c216303  std-label.svg
+f6a214bffe864792b81392522279aee448371c56bc7bc08256d0c3f789fe398b  prm-label.pdf
+2976b681522d78d5bc3d7d0f42e948cf6a3679d502d18650a4f3219a82be04aa  prm-label.svg
+#
+# MATERIALES COMÚNES:
+# 
+# Un frasco de vidrio de 3 litros (0,7925 US gallons).
+# Algodón.
+# Un embudo.
+# Film autoadherente.
+# Un pelador.
+# 10 limones (orgánicos, si es posible).
+# Azúcar blanca.
+# Agua potable (filtrada, si es posible).
+# Botella de vidrio de 1 litro con tapa.
+# 
+# MATERIALES PARA LA ETIQUETA ESTÁNDAR:
+# 
+# Una botella de vodka Hiram Walker's (1 litro, o 1,0567 US quarts).
+# 800 mililitros (27.05 fl. oz.) de agua potable.
+# 600 gramos (21.164 US oz.; oo 1.323 lb.) de azúcar blanca.
+# 
+# MATERIALES PARA LA ETIQUETA PREMIUM:
+# 
+# 1 litro (1.0567 US quarts) de alcohol alimenticio (no debe ser alcohol farmacéutico).
+# 1 kilogramo (35.274 US oz.; o 2.20 lb) de azúcar blanca.
+# 1,5 litros (50.721 fl. oz.) de agua potable.
+# 
+# PROCEDIMIENTO:
+# 
+# 00. Pelar la cáscara de limones en trozos pequeños. Cuidado con pelar la «piel blanca» del limón:
+# esto empeorará el sabor. Colocar todos los trozos pequeños en el frasco de vidrio.
+# 01. Colocar el contenido de alcohol.
+# 02. Sellar el frasco con film adherente para prevenir que el aire esté en contacto con el alcohol.
+# 03. Almacenar el frasco en un lugar fresco y oscuro.
+# 04. Sacudir el frasco todos los días durante 30 días..
+# 05. En una cacerola con agua bebible y azúcar, batir constantemente hasta llegar al punto de ebullición.
+# 06. Dejar que el almíbar se enfríe a temperatura ambiente; verter el contenido frío 
+# en el frasco y sellarlo nuevamente.
+# 07. Sacudir, una vez más, el frasco todos los días durante 30 días..
+# 08. Tomar las botellas de vidrio esterilizadas y, con el embudo con algodón, filtrar la preparación.
+# Si es necesario, filtrarlo nuevamente. La bebida no debe contener ningún tipo de residuo o material sólido.
+# 09. Almacenar las botellas en un refrigerador.
+# 
+# NOTA:
+# 
+# Esta bebida se asemeja a la bebida tradicional de Italia llamada limoncello.
+# Suele ser bebida luego de las comidas, y se recomienda beberlo muy frío,
+# a punto de congelamiento, en un vaso tequilero (shot).
+#
+# Vale la pena mencionar que el preparado de la etiqueta estándar se congelará en el
+# congelador por la dilución del vodka (baja graduación de alcohol) con el almíbar.
+#
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEC+AyBYt9GTpzc+BXmnO7H4lyPIIFAmK7TGkACgkQmnO7H4ly
+PIKwAw/8CCvPfTh6/Y1B6svMgBh0dNp1cv8We06RTy6eo8K5g4sUVsjodh3iV1T5
+eaG3vI3X1zanT833AW+pU3HQAk1h8tUboc0xquvLhQAa2/Kdc9NVdt4q5s3SwsOZ
+8GYTLniEtuom5iA/46VWGcBTvUtLGVArvZfGoDliD9gO5PO0WP5wijV3itbu8AIW
+WTPSwevEiHxQuQgIDeliCg/cYhjgDQaDTcgvgIugsPnbynVFllKVt02mY0jJovts
+Iq5hKiZgmv4KFMRIuHY1oheFpKLMYiDOyclq8Qpc/10caBCcy1cnzJAMuTL4kjTl
+LRpWFxY36BVe1JsHx6R0HHvOo8Ny1vcaMlpRfj6DsKS0roRccdLNbcEFPc5v+TXy
+TllwLg9DAtkl1aD8oE8X3yV2STc+LuUFBfBBn57ByiNaz3GXQsqYdkDUMbq9aBQA
+cf2CSVdZ3eSxxiV39ACqJ9IS35zl4Oq5Tu7cmB/UlfAPDoTGXrwqyn9u5j2xmn67
+OJ/h8GT3746R5soUEAK8KnaJloJoNJ8uGnn6dua7Mqe8C7iH5grnmyEpGKhEnnXx
+SSiIqiQLz/FtRc4xai3ZnsttqpE4ZJlwz1q4OlWRjJ0YoE0Kk2YjKJehRUzzeMp6
+8B8pLXmoq+O/pn2cp8Z1XmheagKjjqIMjmLq+JBSx4EGhPfpsV8=
+=mXRI
+-----END PGP SIGNATURE-----

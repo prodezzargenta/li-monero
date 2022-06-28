@@ -1,0 +1,107 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# Please verify the signature against the key for Li'monero in the 
+# source code repository (/utils/pubkeys/prodezzargenta.asc)
+# $ gpg --import prodezzargenta.asc
+# $ gpg --verify hashes.txt
+#
+# The output should contain:
+#  gpg: Good signature by "prodezzargenta <prodezzargenta@gmail.com>"
+#
+# INFORMATION
+#
+# NAME
+Prodezzargenta
+#
+# BRAND
+Li'monero
+#
+# ADDRESS
+84uhYRqUPTY3FeVfjHXJVci8eu7b2RARy7dcjpf68ffyMoJQFq3Log3PQ6HhgCxgz86DTeqATDQ9D1bzJ4Mz1dVR3oz1Gjv
+#
+# FEE TYPE
+Percentage fee per sale
+#
+# FEE
+0.000000000000
+# 
+# To calculate the SHA256 sum of a file on Linux use
+# $ sha256sum filename 
+#
+# HASHES
+d2b20bcce0605f33feb37de73b6da0301463f755f191afd505f08db7b430da30  limonero-en.tex
+4896f852c54b82f76a11f95a60bfe63e5898d9828b71b03022c7df34562bc6bc  limonero-en.pdf
+266a13181eb0bca30426cf376df68dfb1663ff35b6d9b4b88f43f1f202c5ab8e  prodezzargenta.asc
+66e767ec15b9f025361f2f1fc0b40d1745f9f796721fc5791bf635d4a6cb581c  logo.svg
+f7f5aae78bb7be4d955edf16d80ba0217c751141bd8276e2bdf5b3c76e6e6d98  logo.pdf
+9880e2575a4f3679ce2e52a699349379ce81062e7dfadd5e04703b94dc9b17d8  std-label.pdf
+29a420611d6144c2a259461a6233cce4d04ac00f9952daa9015885299c216303  std-label.svg
+f6a214bffe864792b81392522279aee448371c56bc7bc08256d0c3f789fe398b  prm-label.pdf
+2976b681522d78d5bc3d7d0f42e948cf6a3679d502d18650a4f3219a82be04aa  prm-label.svg
+#
+# COMMON MATERIALS:
+# 
+# One glass jar of 3 liters (0.7925 US gallons).
+# Cotton.
+# A funnel.
+# Food wrap.
+# A peeler.
+# 10 lemons (organic if possible).
+# White sugar.
+# Drinking water (filtered, if possible).
+# 1 liter glass bottle with cap.
+# 
+# STANDARD LABEL MATERIALS:
+# 
+# A bottle of Hiram Walker's vodka (1 liter, or 1.0567 US quarts).
+# 800 mililiters (27.05 fl. oz.) of drinking water.
+# 600 grams (21.164 US oz.; or 1.323 lb.) of white sugar.
+# 
+# PREMIUM LABEL MATERIALS:
+# 
+# 1 liter (1.0567 US quarts) of food alcohol (not pharmaceutical alcohol).
+# 1 kilogram (35.274 US oz.; or 2.20 lb) of white sugar.
+# 1.5 liters (50.721 fl. oz.) of drinking water.
+# 
+# PROCEDURE:
+# 
+# 00. Peel the lemons in tiny pieces. Be careful with peeling the "white skin" of the lemon:
+# this will worsen the flavour. Put all of the tiny pieces in the glass jar.
+# 01. Put the alcohol content (vodka for the standard label, or food alcohol for the premium).
+# 02. Seal the jar with food wrap to prevent air be in contact with the alcohol.
+# 03. Store the jar in a fresh and dark room.
+# 04. Shake the jar every day for 30 days.
+# 05. Take a pan with drinking water and sugar, and constantly stirring it until reaching the
+# boiling point.
+# 06. Let the syrup cool to room temperature; add the cold syrup to the jar, and seal it again.
+# 07. Shake, again, the jar every day for 30 days.
+# 08. Take the sterilized glass bottles and, with the funnel with cotton, filter the solution.
+# If it's necessary, filter it again. The drink must not contain any residue or solid materials.
+# 09. Store the bottles in a fridge.
+# 
+# NOTES:
+# 
+# This beverage it's similar to the traditional Italian drink, limoncello.
+# It's usually drunk after meals, and it's recommended to drink it very cold,
+# to the point of freezing, in a shot.
+#
+# It's worth to mention that the standard label will tend to freeze faster
+# because of the dilution of vodka (low alcohol degree) with the syrup.
+#
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEC+AyBYt9GTpzc+BXmnO7H4lyPIIFAmK7TToACgkQmnO7H4ly
+PIL+qg/9EMMzc8dE/YtoMpG4hFaz/iU3jMChKBWfsYShrCkhdCIefnClhCdXzJsp
+PPrfvaIJQnsjYxJbOKlA9FheRCfF5j9ZxaYlb8ZbNvb483VVhQsNjm0Kra6SbnRG
+VCM9XZx5vL4REmnA7XZdchDmbQbqwsESiWACIxIPdLqwv4j+3FsoTuiJnVce+JMX
+EFxKBNdlArse1gs6wHPexXi4uctbrF/10p6JjP/yK/AwNZaTKRwhWGFTDXrKJrrt
+WOF9sjN91QK3qsTsszlaWvtHpq2Cm/RXIDgPxQE4W4wocXvben2bgmiFL5ENiu+q
+NcwNMk++jUqWs8l2eH9V3gvqugaiE2SztCemyTADiVwXQ1KuHYRKJj8Kl9ZmlZz4
+tpyd/dcH4Y2KqdokqCaCugY9+o4G/iM/3VU3G9Wfm4SBJ4h2UlZj6XNsWyOQkZS6
+tk2he+TyTOY+uAdvreWjdmvwLYtCpqDmhAlg7yv+WxXjYVoXbWyJ74qmwSZpSZ3m
+QCfLzS76vn4irk9KI1uGq+8opAYGovtUU4FNyKWNd4HYs0xff7PP42vNV++9dQl/
+kgZlKBTJyT4PPqnV5pMVWC3LW3lKgr/A4clEexfMNNYZJkpHEt14YufdfuI2B+dz
+ej71aUPEIKV+8lC8I9NsXluHNoOszDXN5ivCoEhEDVtg5onXYeI=
+=r/Qi
+-----END PGP SIGNATURE-----
